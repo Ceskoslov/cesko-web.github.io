@@ -1,2 +1,2 @@
 # cesko-web.github.io
-Test for personal blog
+Test for personal Hexo blog (old)
